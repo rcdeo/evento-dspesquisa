@@ -13,7 +13,7 @@ const placeholder = {
     value: null
 }
 
-const BASE_URL = 'http://192.168.0.101:8080';
+const BASE_URL = 'https://sds1-rcdeo.herokuapp.com';
 
 const mapSelectValues = (games: Game[]) => {
     return games.map(game => ({
@@ -112,6 +112,7 @@ const CreateRecord = () => {
                     value={selectedGame}
                     items={filteredGames}
                     style={pickerSelectStyles}
+                    useNativeAndroidPickerStyle={false}
                     Icon={() => {
                         return <Icon name="chevron-down" color="#9E9E9E" size={25} />
                     }}
