@@ -1,11 +1,18 @@
 <p align="center">
-  <img width="637" height="400" src="https://user-images.githubusercontent.com/16638651/93672117-c79d0080-fa7e-11ea-855b-fe79f631bd60.png">
+  <img src="https://user-images.githubusercontent.com/16638651/93718420-7a8a5e80-fb52-11ea-84ef-dcc4c2632752.png" width="227" height="30" alt="Unform" />
 </p>
 
-### Semana DevSuperior 1.0
-___
+<h3 align="center">
+  Semana DevSuperior 1.0 :coffee: :seedling: :snowflake:
+</h3>
+
+<br>
+
+<div align="center">
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/9f165bb4-021b-4e75-953e-f1096037547e/deploy-status)](https://app.netlify.com/sites/sds1/deploys)
+
+</div>
 
 ### Descrição
 
@@ -24,5 +31,5 @@ Na **Semana DevSupeior 1.0** foi desenvolvido o aplicativo chamado de **Big Game
 
 
 
-Um agradecimento especial aos professores @acenelio e @washingtonsoares da @devsuperior :pray:
+Um agradecimento especial aos professores [@acenelio](https://github.com/acenelio) e [@washingtonsoares](https://github.com/washingtonsoares)  da [@devsuperior](https://github.com/devsuperior) :pray:
 
