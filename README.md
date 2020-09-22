@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/16638651/93718420-7a8a5e80-fb52-11ea-84ef-dcc4c2632752.png" width="227" height="30" alt="Unform" />
+  <img src="https://user-images.githubusercontent.com/16638651/93718420-7a8a5e80-fb52-11ea-84ef-dcc4c2632752.png" width="227" height="30" alt="Big Game Survey" />
 </p>
 
 <h3 align="center">
@@ -14,11 +14,11 @@
 
 </div>
 
-### Descrição
+### :clipboard: Descrição
 
-Na **Semana DevSupeior 1.0** foi desenvolvido o aplicativo chamado de **Big Game Survey** utilizando tecnologias como Java com [Spring Boot](https://spring.io/projects/spring-boot) no back end, JavaScript/[TypeScript](https://www.typescriptlang.org/) no front end, com [ReactJS](https://reactjs.org/) para web e [React Native](https://reactnative.dev/) para mobile. Além disso, foi realizado o deploy no Heroku e Netlify.
+Na **Semana DevSupeior 1.0** foi desenvolvido um aplicativo chamado de **Big Game Survey** utilizando tecnologias como Java com [Spring Boot](https://spring.io/projects/spring-boot) no back end, JavaScript/[TypeScript](https://www.typescriptlang.org/) no front end, com [ReactJS](https://reactjs.org/) para web e [React Native](https://reactnative.dev/) para mobile. Além disso, fez-se o deploy no [Heroku](https://www.heroku.com/) e [Netlify](https://www.netlify.com/). E por fim, a build do aplicativo na [Expo](https://expo.io/).
 
-### Ferramentas
+### :hammer_and_wrench: Ferramentas
 
 - [JDK 11](https://adoptopenjdk.net/releases.html)
 - [Spring Tools Suite 4](https://spring.io/tools)
