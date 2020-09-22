@@ -45,13 +45,13 @@ const CreateRecord = () => {
 
         axios.post(`${BASE_URL}/records`, payload)
             .then(() => {
-                Alert.alert('Dados salvos com sucesso!');
+                Alert.alert('Obrigado!', 'Dados salvos com sucesso! Para visualizar o resultado da pesquisa acesse https://sds1.netlify.app no seu computador.');
                 setName('');
                 setAge('');
                 setSelectedGame('');
                 setPlatform(undefined);
             })
-            .catch(() => Alert.alert('Erro as salvar as informações!'))
+            .catch(() => Alert.alert('Aviso','Erro ao salvar as informações! Tente novamente mais tarde.'))
     }
 
     useEffect(() => {
@@ -61,7 +61,7 @@ const CreateRecord = () => {
                 
                 setAllGames(selectValues);
             })
-            .catch(() => Alert.alert('Erro ao listar os jogos!'))
+            .catch(() => Alert.alert('Aviso', 'Erro ao listar os jogos! Tente novamente mais tarde.'))
     }, []);
 
     return (
